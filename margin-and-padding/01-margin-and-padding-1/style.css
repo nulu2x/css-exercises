@@ -26,6 +26,3 @@ body {
   padding: 32px;
   margin-left: 330px;
 }
-
-- Div Three is aligned to the right.
-- Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
